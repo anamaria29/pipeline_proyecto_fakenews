@@ -25,10 +25,10 @@ Desarrollar un pipeline de datos que permita clasificar noticias como falsas o r
 Se utilizó PostgreSQL para el almacenamiento de datos.
 
 ### Base de datos:
-- `postgres`
+- postgres
 
 ### Tabla principal:
-- `noticias`
+- noticias
 
 ### Estructura:
 
