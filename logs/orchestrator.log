@@ -1,0 +1,7 @@
+2026-04-12 21:45:06,676 - INFO - Iniciando pipeline
+2026-04-12 21:45:06,676 - INFO - Ejecutando etl_fakenews.py
+2026-04-12 21:45:09,695 - INFO - Ejecutando validate_pipeline.py
+2026-04-12 21:51:32,841 - INFO - Iniciando pipeline
+2026-04-12 21:51:32,841 - INFO - Ejecutando etl_fakenews.py
+2026-04-12 21:51:35,832 - INFO - Ejecutando validate_pipeline.py
+2026-04-12 21:51:36,221 - INFO - Pipeline ejecutado

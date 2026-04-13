@@ -1,0 +1,24 @@
+2026-04-12 21:29:12,659 - INFO - Iniciando ETL
+2026-04-12 21:29:12,700 - INFO - extrayendo datos desde la tabla noticias
+2026-04-12 21:29:13,286 - INFO - Filas extraídas: 44898
+2026-04-12 21:29:13,286 - INFO - impieza y transformacion
+2026-04-12 21:29:13,809 - INFO - filas despues de transformacion: 10620
+2026-04-12 21:29:13,822 - INFO - Cargando datos en la tabla noticias_curadas
+2026-04-12 21:29:14,906 - INFO - ETL completado
+2026-04-12 21:29:14,906 - INFO - Columnas finales: ['title', 'text', 'subject', 'date', 'label', 'title_length', 'text_length', 'word_count']
+2026-04-12 21:45:07,224 - INFO - Iniciando ETL
+2026-04-12 21:45:07,267 - INFO - extrayendo datos desde la tabla noticias
+2026-04-12 21:45:07,895 - INFO - Filas extraídas: 44898
+2026-04-12 21:45:07,895 - INFO - impieza y transformacion
+2026-04-12 21:45:08,388 - INFO - filas despues de transformacion: 10620
+2026-04-12 21:45:08,410 - INFO - Cargando datos en la tabla noticias_curadas
+2026-04-12 21:45:09,614 - INFO - ETL completado
+2026-04-12 21:45:09,614 - INFO - Columnas finales: ['title', 'text', 'subject', 'date', 'label', 'title_length', 'text_length', 'word_count']
+2026-04-12 21:51:33,387 - INFO - Iniciando ETL
+2026-04-12 21:51:33,425 - INFO - extrayendo datos desde la tabla noticias
+2026-04-12 21:51:34,002 - INFO - Filas extraídas: 44898
+2026-04-12 21:51:34,002 - INFO - impieza y transformacion
+2026-04-12 21:51:34,496 - INFO - filas despues de transformacion: 10620
+2026-04-12 21:51:34,517 - INFO - Cargando datos en la tabla noticias_curadas
+2026-04-12 21:51:35,750 - INFO - ETL completado
+2026-04-12 21:51:35,750 - INFO - Columnas finales: ['title', 'text', 'subject', 'date', 'label', 'title_length', 'text_length', 'word_count']

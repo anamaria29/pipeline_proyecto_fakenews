@@ -1,0 +1,10 @@
+2026-04-12 21:45:09,824 - INFO - Iniciando validación del pipeline
+2026-04-12 21:45:10,037 - INFO - Filas en tabla curada: 10620
+2026-04-12 21:45:10,038 - INFO - Títulos nulos o vacíos: 0
+2026-04-12 21:45:10,038 - INFO - Textos nulos o vacíos: 31
+2026-04-12 21:51:35,960 - INFO - Iniciando validacion
+2026-04-12 21:51:36,179 - INFO - Filas en tabla curada: 10620
+2026-04-12 21:51:36,180 - INFO - Titulos nulos o vacios: 0
+2026-04-12 21:51:36,180 - INFO - Textos nulos o vacíos: 31
+2026-04-12 21:51:36,180 - WARNING - Advertencia: hay 31 textos nulos o vacios
+2026-04-12 21:51:36,180 - INFO - Validacion completada
